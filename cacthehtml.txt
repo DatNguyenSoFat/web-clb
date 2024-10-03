@@ -1,0 +1,19 @@
+Các thẻ HTML được dùng nhiều trong BT1:
+1.	<html> : Thẻ mở đầu của html
+2.	< hand > : Chứa những thẻ cung cấp thông tin cho web
+3.	<meta> : Cung cấp metadata (dữ liệu của dữ liệu), quan trọng cho các công cụ tìm kiếm
+4.	<title> : Đặt tiêu đề trang web
+5.	<style>: Chân mà CSS (Cascading Style Sheets) để định hiệu cho phân tử HTML (màu, size, font,…)
+6.	<body> :  Chiêu nội dung của trang web
+7.	<h 1-> 6>:  Đặt tiêu đề cho web ( chó dần từ 1 -> 6)
+8.	<p> Viết văn bản nhưng khoảng cách giữa các dòng
+9.	<div> Viết văn bản nhưng không kí cách giữa các dòng
+10.	<a> Tạo link
+•	target: blank Mit cái link nhưng mở page ther
+11.	<ul> :Thẻ mô tả liệt kê theo danh sách
+•	<li> : Các mục trong một danh sách
+	ul > li * n : tạo 1 thẻ cho <ul> chứa n thẻ con <li>
+
+12.	<img> Hiển thị hình ảnh, alt sau đó là thức về kin lên nén ảnh bị dead
+13.	<class> Nhóm các thứ có cùng 1 setting	
+14.	<b> : chữ in đậm, <u> : chữ gạch chân , <i> ; chữ in nghiêng
