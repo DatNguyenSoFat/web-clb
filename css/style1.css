@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    line-height: 1.2;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid orange;
+    padding: 20px;
+}
+
+.highlight {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+h1
+{
+    color: orange;
+    font-size: 32px;
+}
+
+.first-letter
+{
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
+}
+.divider
+{
+    background-color: orange;
+    color: white;
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+}
+.city
+{
+    color: red;
+}
+.d1
+{
+    font-weight:bold ;
+    
+}
+.d2
+{
+    background-color: yellow;
+    font-style: italic;
+}
+.paragraph
+{
+    text-align: right;
+    font-size: 18px;
+}
